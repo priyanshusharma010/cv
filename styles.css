@@ -1,0 +1,52 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.top-container{
+  position: relative;
+  background-color: #abedd8;
+  padding-top: 100px;
+}
+h1{
+  font-size: 5.025rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  line-height: 2;
+}
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.profile-photo{
+  width: 300px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.chillie-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
